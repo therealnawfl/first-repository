@@ -12,3 +12,9 @@ I will keep on making new files
 
 
 "Update README with project info"
+
+## My learning Progress
+
+- Created my first repository
+- Added a file
+- and edited the README
